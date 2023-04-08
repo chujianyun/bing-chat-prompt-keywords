@@ -59,9 +59,9 @@ Use specific keywords to chat with Bing AI more effectively.
 > apple ;similar_to
  
 `summary`: summary content.
-> content or url ;summary
+> 我想让你帮我为内容写一个总结：content or url ;summary
 
-## T
+
 
 `translate`: translate a word or a sentence.
 > hello world ;translate;French
