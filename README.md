@@ -57,6 +57,9 @@ Use specific keywords to chat with Bing AI more effectively.
 
 `similar_to`: find similar things.
 > apple ;similar_to
+ 
+`summary`: summary content.
+> content or url ;summary
 
 ## T
 
